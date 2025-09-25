@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Dupont",
+      "email": "alice@example.com",
+      "phone": "0123456789"
+    },
+    {
+      "id": 2,
+      "name": "Bob Martin",
+      "email": "bob@example.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": 3,
+      "name": "Claire Johnson",
+      "email": "claire@example.com",
+      "phone": "5551234567"
+    }
+  ]
+}
